@@ -7,6 +7,6 @@ The objective of this project was to create our own version of the printf functi
 This however, is not a 1 to 1 representation of printf.
 
 # ✅ Grading
-Mandatory: **100%**
-Bonus: **25%**
-Total Grade: **100%**
+Mandatory: **100%**                                                                                        
+Bonus: **25%**                                                                                              
+Final Grade: **100%**
